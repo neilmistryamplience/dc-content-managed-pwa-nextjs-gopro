@@ -38,7 +38,7 @@ This project is a monorepo and contains two sub-projects:
 This package is the application itself, you can run it as you would any NestJS app:
 
 ```
-yarn run dev
+yarn run dev 
 ```
 
 Which will launch the application on [http://localhost:3000](http://localhost:3000).
